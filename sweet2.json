@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "freetolga",
+        "oem": "Xiaomi",
+        "device": "sweet2",
+        "filename": "LineageOS-22.1-UNOFFICIAL-user-20250308-microG-signed.zip",
+        "download": "https://drive.google.com/uc?export=download&id=1uL8_slNH2SQ_YtXI1KSX59a3WXBUm5d8",
+        "timestamp": 1741530695,
+        "md5": "b9ce964fba047ac30aef7cbcce7dcf25",
+        "size": 1286259437,
+        "version": "22.1"
+    }
+  ]
+}

@@ -4,12 +4,12 @@
         "maintainer": "freetolga",
         "oem": "Xiaomi",
         "device": "sweet2",
-        "filename": "LineageOS-22.1-UNOFFICIAL-user-20250308-microG-signed.zip",
-        "download": "https://drive.google.com/uc?export=download&id=1uL8_slNH2SQ_YtXI1KSX59a3WXBUm5d8",
-        "timestamp": 1741530695,
-        "md5": "b9ce964fba047ac30aef7cbcce7dcf25",
-        "size": 1286259437,
-        "version": "22.1"
+        "filename": "LineageOS-22.1-sweet2-UNOFFICIAL-user-vanilla-signed-20250309.zip",
+        "download": "https://drive.google.com/uc?export=download&id=1U1t3uSZLt7cpm8PQr6qhenAmx8MEgECv",
+        "timestamp": 1741537253,
+        "md5": "ef94f24ebfc00a47c4b05036aea9e11c",
+        "size": 1275906554,
+        "version": "20250309"
     }
   ]
 }
